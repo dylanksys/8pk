@@ -1,0 +1,12 @@
+{
+  "name": "cartman'sabs",
+  "description": "ripped",
+  "author": "dylanksys",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylanksys/8pk"
+  },
+  "dependencies": {
+    "express": "4.13.4"
+  }
+}
